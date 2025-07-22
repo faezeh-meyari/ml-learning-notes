@@ -68,15 +68,7 @@ The surface is colored using a rainbow colormap, and the contour lines are proje
 
 - README.md: This file.
 
-## How to Run
 
-Clone the repository and run the notebook:
-
-git clone https://github.com/faezeh-meyari/ml-learning-notes/
-
-cd your-repo
-
-jupyter notebook contour_plot.ipynb
 
 
 
