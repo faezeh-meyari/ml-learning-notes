@@ -72,9 +72,10 @@ The surface is colored using a rainbow colormap, and the contour lines are proje
 
 Clone the repository and run the notebook:
 
-git clone https://github.com/your-username/your-repo.git
+git clone [https://github.com/faezeh-meyari/ml-learning-notes/.git](https://github.com/faezeh-meyari/ml-learning-notes/)
 cd your-repo
 jupyter notebook contour_plot.ipynb
+
 
 
 
