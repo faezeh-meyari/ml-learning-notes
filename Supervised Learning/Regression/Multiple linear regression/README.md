@@ -181,7 +181,8 @@ Faezeh Meyari
 💻 Interested in Machine Learning and Software Engineering
 
 📧 Email: faezehmeyari203@gmail.com
-]
+
 🌐 GitHub: github.com/faezeh-meyari
 
 🔗 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/faezeh-meyari-893b17224/)
+
