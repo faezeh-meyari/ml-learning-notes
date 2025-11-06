@@ -178,6 +178,7 @@ Example output (for current dataset):
 
 Faezeh Meyari
 🎓 M.Sc. in Strategic Engineering, Italy
+
 💻 Interested in Machine Learning and Software Engineering
 
 📧 Email: faezehmeyari203@gmail.com
@@ -185,4 +186,5 @@ Faezeh Meyari
 🌐 GitHub: github.com/faezeh-meyari
 
 🔗 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/faezeh-meyari-893b17224/)
+
 
