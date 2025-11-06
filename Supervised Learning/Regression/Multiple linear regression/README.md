@@ -136,12 +136,12 @@ Where:
 
 ## 🧮 Model Evaluation
 
-| Metric | Formula | Description |
-|--------|----------|-------------|
-| **MAE** | \(\frac{1}{n}\sum |y_i - \hat{y}_i|\) | Average absolute difference |
-| **MSE** | \(\frac{1}{n}\sum (y_i - \hat{y}_i)^2\) | Penalizes large errors |
-| **RMSE** | \(\sqrt{MSE}\) | Standard deviation of residuals |
-| **R² Score** | \(1 - \frac{SS_{res}}{SS_{tot}}\) | Variance explained by model |
+| Metric | Description |
+|--------|-------------|
+| **MAE** | Average absolute difference |
+| **MSE** | Penalizes large errors |
+| **RMSE** | Standard deviation of residuals |
+| **R² Score** | Variance explained by model |
 
 Example output (for current dataset):
 
@@ -186,5 +186,6 @@ Faezeh Meyari
 🌐 GitHub: github.com/faezeh-meyari
 
 🔗 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/faezeh-meyari-893b17224/)
+
 
 
